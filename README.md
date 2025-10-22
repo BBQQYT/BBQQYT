@@ -1,161 +1,299 @@
-# 👋 Привет! Я BBQQYT 
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%D0%98%D0%98+%D0%B8+Android;Python+%7C+Kotlin+%7C+JavaScript;AI%2FML+%D1%8D%D0%BD%D1%82%D1%83%D0%B7%D0%B8%D0%B0%D1%81%D1%82" alt="Typing SVG" />
+  
+  <!-- Анимированный заголовок -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=BBQQYT%20%F0%9F%92%A0&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  
+  <!-- Крутая анимированная типизация -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=%F0%9F%A7%A0+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%D0%98%D0%98+%D0%B8%D0%B7+%D0%9D%D0%B8%D0%B6%D0%BD%D0%B5%D0%B3%D0%BE+%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0;%F0%9F%9A%80+%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D0%98%D0%98-%D0%B0%D0%B2%D0%B0%D1%82%D0%B0%D1%80%D1%8B+%D0%B8+Android+%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F;%F0%9F%8E%AE+%D0%9C%D0%BE%D0%B4%D0%B4%D0%B5%D1%80+Minecraft+%D0%B8+%D0%B1%D0%BB%D0%B5%D0%BD%D0%B4%D0%B5%D1%80-%D1%8D%D0%BD%D1%82%D1%83%D0%B7%D0%B8%D0%B0%D1%81%D1%82" alt="Typing SVG" />
+  
+  <!-- Крутые бейджи со статистикой -->
+  <p>
+    <img src="https://img.shields.io/github/followers/BBQQYT?style=for-the-badge&logo=github&logoColor=white&color=6366f1&labelColor=1f2937" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/BBQQYT?style=for-the-badge&logo=github&logoColor=white&color=ff6b6b&labelColor=1f2937&affiliations=OWNER" alt="Stars" />
+    <img src="https://komarev.com/ghpvc/?username=BBQQYT&style=for-the-badge&color=10b981&label=Визитов" alt="Profile views" />
+    <img src="https://img.shields.io/badge/%D0%9B%D0%BE%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%F0%9F%87%B7%F0%9F%87%BA%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-purple?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  </p>
+  
 </div>
 
 ---
 
-## 🚀 О мне
-
-🧑‍💻 **Разработчик** с страстью к созданию ИИ-приложений и автоматизации  
-🎯 **Фокус**: AI/ML, мобильная разработка, стриминг-технологии  
-🌍 **Местоположение**: Нижний Новгород, Россия  
-✨ **Увлечения**: 3D моделирование в Blender, Minecraft моддинг, эксперименты с LLM  
-
----
-
-## 📦 Основные проекты
+<div align="center">
+  <h2>🎯 МОЯ МИССИЯ</h2>
+  <h3>💡 Создаю ИИ, который меняет мир стриминга и мобильных приложений</h3>
+</div>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🎥 Vel4Twi</h3>
-      <p>Локальный AI-аватар для стриминга. Полнофункциональная ИИ-стримерша Velpur с интеграцией Discord, Twitch и VTube Studio.</p>
-      <p>
-        <a href="https://github.com/BBQQYT/Vel4Twi">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/AI-FF6B6B?style=flat&logo=robot&logoColor=white" alt="AI"/>
-          <img src="https://img.shields.io/badge/GPL--3.0-blue?style=flat&logo=opensourceinitiative&logoColor=white" alt="License"/>
-        </a>
-      </p>
+    <td align="center" width="33%">
+      <h3>🤖 ИИ & ML</h3>
+      <p>Разрабатываю AI-аватары<br/>и умных помощников</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>📱 ChaosAlicePro</h3>
-      <p>Android-клиент для взаимодействия с ИИ персонажами. Модернный интерфейс для общения с AI.</p>
-      <p>
-        <a href="https://github.com/BBQQYT/ChaosAlicePro">
-          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
-          <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android"/>
-          <img src="https://img.shields.io/badge/MIT-green?style=flat&logo=opensourceinitiative&logoColor=white" alt="License"/>
-        </a>
-      </p>
+    <td align="center" width="33%">
+      <h3>📱 Android Dev</h3>
+      <p>Создаю современные<br/>мобильные приложения</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 CA-promt</h3>
-      <p>Коллекция промптов для работы с ИИ. Оптимизированные шаблоны для различных задач.</p>
-      <p>
-        <a href="https://github.com/BBQQYT/CA-promt">
-          <img src="https://img.shields.io/badge/Prompts-FF9F43?style=flat&logo=openai&logoColor=white" alt="Prompts"/>
-          <img src="https://img.shields.io/badge/GPL--3.0-blue?style=flat&logo=opensourceinitiative&logoColor=white" alt="License"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎮 Minecraft Modpacks</h3>
-      <p>Коллекция модпаков для Minecraft, включая серию Shiza, Xata-CM и Warhammer 40K. Полное погружение в игровой мир.</p>
-      <p>
-        <a href="https://github.com/BBQQYT/Shiza-3.2-mod">
-          <img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat&logo=minecraft&logoColor=white" alt="Minecraft"/>
-          <img src="https://img.shields.io/badge/Modding-FFA500?style=flat&logo=curseforge&logoColor=white" alt="Modding"/>
-        </a>
-      </p>
+    <td align="center" width="33%">
+      <h3>🎮 Game Modding</h3>
+      <p>Делаю модпаки для<br/>Minecraft сообщества</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Технологии и инструменты
+## 🔥 ТОПОВЫЕ ПРОЕКТЫ
+
+<table>
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <h3>🎥 Vel4Twi - AI Стример</h3>
+        <img src="https://img.shields.io/badge/⭐_ПОПУЛЯРНЫЙ_ПРОЕКТ-FF6B6B?style=for-the-badge&logoColor=white" />
+      </div>
+      <br/>
+      <p><strong>🚀 Революционный AI-аватар для стриминга!</strong></p>
+      <p>Полнофункциональная ИИ-стримерша Velpur с интеграцией:</p>
+      <ul>
+        <li>🎯 Discord & Twitch интеграция</li>
+        <li>🎭 VTube Studio поддержка</li>
+        <li>🧠 Локальные модели Whisper & LLM</li>
+        <li>🗣️ Coqui TTS для естественной речи</li>
+      </ul>
+      <div align="center">
+        <a href="https://github.com/BBQQYT/Vel4Twi">
+          <img src="https://img.shields.io/badge/Посмотреть-6366f1?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI/ML-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streaming-9146FF?style=flat-square&logo=twitch&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <h3>📱 ChaosAlicePro</h3>
+        <img src="https://img.shields.io/badge/⚡_ANDROID_МАСТЕР-10B981?style=for-the-badge&logoColor=white" />
+      </div>
+      <br/>
+      <p><strong>📲 Модернный Android клиент для ИИ!</strong></p>
+      <p>Персональный помощник с ИИ персонажами:</p>
+      <ul>
+        <li>🎨 Современный Material Design</li>
+        <li>💬 Чат с ИИ персонажами</li>
+        <li>⚡ Быстрая и отзывчивая работа</li>
+        <li>🔒 Приватность данных</li>
+      </ul>
+      <div align="center">
+        <a href="https://github.com/BBQQYT/ChaosAlicePro">
+          <img src="https://img.shields.io/badge/Скачать-00C853?style=for-the-badge&logo=android&logoColor=white" />
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Material-757575?style=flat-square&logo=material-design&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="33%">
+      <div align="center">
+        <h4>🧠 CA-promt</h4>
+        <p><strong>Коллекция AI промптов</strong><br/>Оптимизированные шаблоны для ИИ задач</p>
+        <a href="https://github.com/BBQQYT/CA-promt">
+          <img src="https://img.shields.io/badge/Изучить-FF9500?style=for-the-badge&logo=openai&logoColor=white" />
+        </a>
+      </div>
+    </td>
+    <td width="33%">
+      <div align="center">
+        <h4>👹 EvilYA</h4>
+        <p><strong>Yandex Alice без фильтров</strong><br/>Работает на Gemini API</p>
+        <a href="https://github.com/BBQQYT/EvilYA">
+          <img src="https://img.shields.io/badge/Попробовать-9C27B0?style=for-the-badge&logo=python&logoColor=white" />
+        </a>
+      </div>
+    </td>
+    <td width="33%">
+      <div align="center">
+        <h4>🎮 Minecraft Mods</h4>
+        <p><strong>Серия модпаков Shiza</strong><br/>Полное погружение в игру</p>
+        <a href="https://github.com/BBQQYT/Shiza-3.2-mod">
+          <img src="https://img.shields.io/badge/Играть-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⚡ ТЕХНОЛОГИЧЕСКИЙ АРСЕНАЛ
 
 <div align="center">
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <h4>🚀 Backend & AI</h4>
+        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi&theme=dark" />
+      </td>
+      <td align="center" width="20%">
+        <h4>📱 Mobile Dev</h4>
+        <img src="https://skillicons.dev/icons?i=kotlin,android,java,gradle&theme=dark" />
+      </td>
+      <td align="center" width="20%">
+        <h4>🌐 Frontend</h4>
+        <img src="https://skillicons.dev/icons?i=js,nodejs,html,css&theme=dark" />
+      </td>
+      <td align="center" width="20%">
+        <h4>🔧 DevOps & Tools</h4>
+        <img src="https://skillicons.dev/icons?i=git,docker,vercel,vscode&theme=dark" />
+      </td>
+      <td align="center" width="20%">
+        <h4>🎨 Creative</h4>
+        <img src="https://skillicons.dev/icons?i=blender,unity,figma,photoshop&theme=dark" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 💻 Языки программирования
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🤖 AI/ML & Фреймворки
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-
-### 📱 Мобильная разработка
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### 🌐 Web & Облако
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
-### 🎮 Игровой дев
-![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
+<div align="center">
+  <h3>🤖 ИИ Платформы</h3>
+  <img src="https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Whisper_ASR-25D366?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coqui_TTS-FF6B35?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LM_Studio-000000?style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 ---
 
-## 📈 GitHub статистика
+## 📊 GITHUB СТАТИСТИКА & ДОСТИЖЕНИЯ
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BBQQYT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBQQYT&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BBQQYT&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=ff6b6b&currStreakLabel=ffffff" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BBQQYT&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
-
-## 🌱 Активность
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BBQQYT&bg_color=0d1117&color=ffffff&line=6366f1&point=ff6b6b&area=true&hide_border=true" />
-</div>
-
----
-
-## 🔥 Свежие проекты
-
-- 🎥 **Vel4Twi** - Локальный AI стример с VTube Studio
-- 📱 **ChaosAlicePro** - Android клиент для AI чатов
-- 🧠 **CA-promt** - Коллекция AI промптов
-- 🎮 **EvilYA** - Yandex Alice без ограничений
-
----
-
-## 📫 Контакты и связь
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BBQQYT)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ISELLNAME)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/v.e.l.p.u.r._ai)
-
-
+  
+  <!-- Основная статистика -->
+  <table>
+    <tr>
+      <td>
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=BBQQYT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff&custom_title=📈%20GitHub%20Статистика" />
+      </td>
+      <td>
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBQQYT&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff&custom_title=💻%20Топ%20Языки" />
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Полоса активности -->
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=BBQQYT&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=ff6b6b&currStreakLabel=ffffff" />
+  
+  <!-- Трофеи -->
+  <img src="https://github-profile-trophy.vercel.app/?username=BBQQYT&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+  
+  <!-- График активности -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BBQQYT&bg_color=0d1117&color=ffffff&line=6366f1&point=ff6b6b&area=true&hide_border=true&custom_title=🔥%20График%20Активности" />
+  
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BBQQYT&color=6366f1&style=for-the-badge&label=Просмотров+профиля" alt="Profile views" />
-</div>
+## 🎯 ТЕКУЩИЕ ЦЕЛИ & ПЛАНЫ
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🚀 В разработке</h3>
+      <ul>
+        <li>🤖 Улучшение AI-алгоритмов Vel4Twi</li>
+        <li>📱 Новые функции для ChaosAlicePro</li>
+        <li>🎮 Модпак Shiza 6.0 с новыми технологиями</li>
+        <li>🧠 Экспериментальный проект с нейросетями</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>📈 Изучаю</h3>
+      <ul>
+        <li>🔥 Advanced Machine Learning техники</li>
+        <li>⚡ Jetpack Compose для Android</li>
+        <li>🌐 WebAssembly для веб-приложений</li>
+        <li>🎨 Blender scripting & автоматизация</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 СВЯЗЬ СО МНОЙ
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" />
+  
+  <h3>🤝 Готов к сотрудничеству!</h3>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://t.me/ISELLNAME">
+          <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4" alt="Telegram" />
+        </a>
+        <br/><strong>Личные сообщения</strong>
+      </td>
+      <td align="center">
+        <a href="https://discord.com/users/v.e.l.p.u.r._ai">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" />
+        </a>
+        <br/><strong>Разработка & Gaming</strong>
+      </td>
+      <td align="center">
+        <a href="https://github.com/BBQQYT">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+        </a>
+        <br/><strong>Мои проекты</strong>
+      </td>
+    </tr>
+  </table>
+  
+  <h4>💼 Открыт для:</h4>
+  <p>
+    <img src="https://img.shields.io/badge/💻_Разработка_ИИ-success?style=flat-square" />
+    <img src="https://img.shields.io/badge/📱_Android_проекты-blue?style=flat-square" />
+    <img src="https://img.shields.io/badge/🎮_Game_моддинг-orange?style=flat-square" />
+    <img src="https://img.shields.io/badge/🤝_Ментроство-purple?style=flat-square" />
+  </p>
+  
 </div>
 
+---
+
 <div align="center">
-  <h3>🚀 «Код - это поэзия, которая решает проблемы»</h3>
+  
+  <!-- Мотивационная цитата -->
+  <h2>💫 "Код - это магия, которая превращает идеи в реальность" 💫</h2>
+  
+  <!-- Забавная анимация -->
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=💻+Программирую+с+душой...;🤖+Создаю+ИИ+будущего...;🚀+Делаю+мир+лучше+через+код...;✨+Каждый+коммит+-+шаг+к+мечте..." alt="Motivational typing" />
+  
+  <!-- Счетчик звезд -->
+  <h3>⭐ Если профиль понравился - поставьте звезду! ⭐</h3>
+  
+  <!-- Волна внизу -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
+  
 </div>
+
+<!-- Скрытые ASCII арты для энтузиастов -->
+<!--
+
+██████╗ ██████╗  ██████╗  ██████╗ ██╗   ██╗████████╗
+██╔══██╗██╔══██╗██╔═══██╗██╔═══██╗╚██╗ ██╔╝╚══██╔══╝
+██████╔╝██████╔╝██║   ██║██║   ██║ ╚████╔╝    ██║   
+██╔══██╗██╔══██╗██║▄▄ ██║██║▄▄ ██║  ╚██╔╝     ██║   
+██████╔╝██████╔╝╚██████╔╝╚██████╔╝   ██║      ██║   
+╚═════╝ ╚═════╝  ╚══▀▀═╝  ╚══▀▀═╝    ╚═╝      ╚═╝   
+
+-->
