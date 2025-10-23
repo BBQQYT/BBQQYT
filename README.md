@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/BBQQYT?style=for-the-badge&logo=github&logoColor=white&color=6366f1&labelColor=1f2937" alt="Followers" />
     <img src="https://img.shields.io/github/stars/BBQQYT?style=for-the-badge&logo=github&logoColor=white&color=ff6b6b&labelColor=1f2937&affiliations=OWNER" alt="Stars" />
     <img src="https://komarev.com/ghpvc/?username=BBQQYT&style=for-the-badge&color=10b981&label=Визитов" alt="Profile views" />
-    <img src="https://img.shields.io/badge/%D0%9B%D0%BE%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%F0%9F%87%D7%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-purple?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/%D0%9B%D0%BE%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-purple?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
   
 </div>
@@ -276,7 +276,7 @@
   <h2>💫 "Код - это магия, которая превращает идеи в реальность" 💫</h2>
   
   <!-- Забавная анимация -->
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=💻+Программирую+с+душой...;🤖+Создаю+ИИ+будущего...;🚀+Делаю+мир+лучше+через+код...;✨+Каждый+коммит+-+шаг+к+мечте..." alt="Motivational typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D1%83%D1%8E+%D1%81+%D0%B4%D1%83%D1%88%D0%BE%D0%B9...;%F0%9F%A4%96+%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D0%98%D0%98+%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B3%D0%BE...;%F0%9F%9A%80+%D0%94%D0%B5%D0%BB%D0%B0%D1%8E+%D0%BC%D0%B8%D1%80+%D0%BB%D1%83%D1%87%D1%88%D0%B5+%D1%87%D0%B5%D1%80%D0%B5%D0%B7+%D0%BA%D0%BE%D0%B4...;%E2%9C%A8+%D0%9A%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9+%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82+-+%D1%88%D0%B0%D0%B3+%D0%BA+%D0%BC%D0%B5%D1%87%D1%82%D0%B5..." alt="Motivational typing" />
   
   <!-- Счетчик звезд -->
   <h3>⭐ Если профиль понравился - поставьте звезду! ⭐</h3>
