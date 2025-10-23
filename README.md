@@ -263,7 +263,6 @@
     <img src="https://img.shields.io/badge/💻_Разработка_ИИ-success?style=flat-square" />
     <img src="https://img.shields.io/badge/📱_Android_проекты-blue?style=flat-square" />
     <img src="https://img.shields.io/badge/🎮_Game_моддинг-orange?style=flat-square" />
-    <img src="https://img.shields.io/badge/🤝_Менторство-purple?style=flat-square" />
   </p>
   
 </div>
