@@ -4,14 +4,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=BBQQYT%20%F0%9F%92%A0&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
   
   <!-- Крутая анимированная типизация -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=%F0%9F%A7%A0+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%D0%98%D0%98+%D0%B8%D0%B7+%D0%9D%D0%B8%D0%B6%D0%BD%D0%B5%D0%B3%D0%BE+%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0;%F0%9F%9A%80+%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D0%98%D0%98-%D0%B0%D0%B2%D0%B0%D1%82%D0%B0%D1%80%D1%8B+%D0%B8+Android+%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F;%F0%9F%8E%AE+%D0%9C%D0%BE%D0%B4%D0%B4%D0%B5%D1%80+Minecraft+%D0%B8+%D0%B1%D0%BB%D0%B5%D0%BD%D0%B4%D0%B5%D1%80-%D1%8D%D0%BD%D1%82%D1%83%D0%B7%D0%B8%D0%B0%D1%81%D1%82" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=%F0%9F%A7%A0+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%D0%98%D0%98+%D0%B8%D0%B7+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8;%F0%9F%9A%80+%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D0%98%D0%98-%D0%B0%D0%B2%D0%B0%D1%82%D0%B0%D1%80%D1%8B+%D0%B8+Android+%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F;%F0%9F%8E%AE+%D0%9C%D0%BE%D0%B4%D0%B4%D0%B5%D1%80+Minecraft+%D0%B8+%D0%B1%D0%BB%D0%B5%D0%BD%D0%B4%D0%B5%D1%80-%D1%8D%D0%BD%D1%82%D1%83%D0%B7%D0%B8%D0%B0%D1%81%D1%82" alt="Typing SVG" />
   
   <!-- Крутые бейджи со статистикой -->
   <p>
     <img src="https://img.shields.io/github/followers/BBQQYT?style=for-the-badge&logo=github&logoColor=white&color=6366f1&labelColor=1f2937" alt="Followers" />
     <img src="https://img.shields.io/github/stars/BBQQYT?style=for-the-badge&logo=github&logoColor=white&color=ff6b6b&labelColor=1f2937&affiliations=OWNER" alt="Stars" />
     <img src="https://komarev.com/ghpvc/?username=BBQQYT&style=for-the-badge&color=10b981&label=Визитов" alt="Profile views" />
-    <img src="https://img.shields.io/badge/%D0%9B%D0%BE%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%F0%9F%87%B7%F0%9F%87%BA%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-purple?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/%D0%9B%D0%BE%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%F0%9F%87%D7%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-purple?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
   
 </div>
@@ -263,7 +263,7 @@
     <img src="https://img.shields.io/badge/💻_Разработка_ИИ-success?style=flat-square" />
     <img src="https://img.shields.io/badge/📱_Android_проекты-blue?style=flat-square" />
     <img src="https://img.shields.io/badge/🎮_Game_моддинг-orange?style=flat-square" />
-    <img src="https://img.shields.io/badge/🤝_Ментроство-purple?style=flat-square" />
+    <img src="https://img.shields.io/badge/🤝_Менторство-purple?style=flat-square" />
   </p>
   
 </div>
