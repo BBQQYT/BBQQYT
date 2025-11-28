@@ -132,6 +132,31 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="100%">
+      <div align="center">
+        <h4 style="filter: blur(5px); opacity: 0.5;">🔮 VelpurUB</h4>
+        <img src="https://img.shields.io/badge/🚧_В_РАЗРАБОТКЕ-FFA500?style=for-the-badge&logoColor=white" />
+      </div>
+      <br/>
+      <div align="center">
+        <p><strong>⏳ Прогресс разработки</strong></p>
+        <div style="width: 100%; background-color: #1f2937; border-radius: 10px; overflow: hidden; height: 25px; position: relative;">
+          <div style="width: 1%; background: linear-gradient(90deg, #6366f1, #8b5cf6); height: 100%; border-radius: 10px; transition: width 0.3s;"></div>
+          <span style="position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); color: white; font-weight: bold; font-size: 14px;">1%</span>
+        </div>
+      </div>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI/ML-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## ⚡ ТЕХНОЛОГИЧЕСКИЙ АРСЕНАЛ
@@ -214,6 +239,7 @@
         <li>📱 Новые функции для ChaosAlicePro</li>
         <li>🎮 Модпак Shiza 10 с новыми технологиями</li>
         <li>🧠 Экспериментальный проект "Ace"</li>
+        <li>🔮 Секретный проект VelpurUB</li>
       </ul>
     </td>
     <td width="50%">
