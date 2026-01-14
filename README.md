@@ -34,10 +34,6 @@
       <h3>📱 Android Dev</h3>
       <p>Создаю современные<br/>мобильные приложения</p>
     </td>
-    <td align="center" width="33%">
-      <h3>🎮 Game Modding</h3>
-      <p>Делаю модпаки для<br/>Minecraft сообщества</p>
-    </td>
   </tr>
 </table>
 
@@ -117,15 +113,6 @@
         <p><strong>Yandex Alice без фильтров</strong><br/>Работает на Gemini API</p>
         <a href="https://github.com/BBQQYT/EvilYA">
           <img src="https://img.shields.io/badge/Попробовать-9C27B0?style=for-the-badge&logo=python&logoColor=white" />
-        </a>
-      </div>
-    </td>
-    <td width="33%">
-      <div align="center">
-        <h4>🎮 Minecraft Mods</h4>
-        <p><strong>Серия модпаков Shiza</strong><br/>Полное погружение в игру(новые только на CurseForge)</p>
-        <a href="https://github.com/BBQQYT/Shiza-3.2-mod">
-          <img src="https://img.shields.io/badge/Играть-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
         </a>
       </div>
     </td>
@@ -237,7 +224,6 @@
       <ul>
         <li>🤖 Улучшение AI-алгоритмов Vel4Twi</li>
         <li>📱 Новые функции для ChaosAlicePro</li>
-        <li>🎮 Модпак Shiza 10 с новыми технологиями</li>
         <li>🧠 Экспериментальный проект "Ace"</li>
         <li>🔮 Секретный проект VelpurUB</li>
       </ul>
@@ -274,7 +260,7 @@
         <a href="https://discord.com/users/v.e.l.p.u.r._ai">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" />
         </a>
-        <br/><strong>Разработка & Gaming</strong>
+        <br/><strong>Разработка</strong>
       </td>
       <td align="center">
         <a href="https://github.com/BBQQYT">
@@ -289,7 +275,6 @@
   <p>
     <img src="https://img.shields.io/badge/💻_Разработка_ИИ-success?style=flat-square" />
     <img src="https://img.shields.io/badge/📱_Android_проекты-blue?style=flat-square" />
-    <img src="https://img.shields.io/badge/🎮_Game_моддинг-orange?style=flat-square" />
   </p>
   
 </div>
