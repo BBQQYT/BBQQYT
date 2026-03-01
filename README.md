@@ -131,7 +131,7 @@
         <p><strong>⏳ Прогресс разработки</strong></p>
         <div style="width: 100%; background-color: #1f2937; border-radius: 10px; overflow: hidden; height: 25px; position: relative;">
           <div style="width: 1%; background: linear-gradient(90deg, #6366f1, #8b5cf6); height: 100%; border-radius: 10px; transition: width 0.3s;"></div>
-          <span style="position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); color: white; font-weight: bold; font-size: 14px;">1%</span>
+          <span style="position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); color: white; font-weight: bold; font-size: 14px;">43%</span>
         </div>
       </div>
       <br/>
@@ -165,11 +165,11 @@
       </td>
       <td align="center" width="20%">
         <h4>🔧 DevOps & Tools</h4>
-        <img src="https://skillicons.dev/icons?i=git,docker,vercel,vscode&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=git,docker,vscode&theme=dark" />
       </td>
       <td align="center" width="20%">
         <h4>🎨 Creative</h4>
-        <img src="https://skillicons.dev/icons?i=blender,unity,figma,photoshop&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=blender&theme=dark" />
       </td>
     </tr>
   </table>
