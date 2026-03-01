@@ -21,7 +21,7 @@
 
 <div align="center">
   <h2>🎯 МОЯ МИССИЯ</h2>
-  <h3>💡 Создаю ИИ, который меняет мир стриминга и мобильных приложений</h3>
+  <h3>💡 Создаю ИИ проекты разных типов и обучаю ИИ сам</h3>
 </div>
 
 <table>
@@ -32,7 +32,7 @@
     </td>
     <td align="center" width="33%">
       <h3>📱 Android Dev</h3>
-      <p>Создаю современные<br/>мобильные приложения</p>
+      <p>Создаю хорошие<br/>мобильные приложения</p>
     </td>
   </tr>
 </table>
@@ -49,10 +49,10 @@
         <img src="https://img.shields.io/badge/⭐_ПОПУЛЯРНЫЙ_ПРОЕКТ-FF6B6B?style=for-the-badge&logoColor=white" />
       </div>
       <br/>
-      <p><strong>🚀 Революционный AI-аватар для стриминга!</strong></p>
+      <p><strong>🚀 AI-аватар для стриминга!</strong></p>
       <p>Полнофункциональная ИИ-стримерша Velpur с интеграцией:</p>
       <ul>
-        <li>🎯 Discord & Twitch интеграция</li>
+        <li>🎯 Discord(WIP) & Twitch интеграция</li>
         <li>🎭 VTube Studio поддержка</li>
         <li>🧠 Локальные модели Whisper & LLM</li>
         <li>🗣️ Coqui TTS для естественной речи</li>
@@ -74,13 +74,13 @@
         <img src="https://img.shields.io/badge/⚡_ANDROID_МАСТЕР-10B981?style=for-the-badge&logoColor=white" />
       </div>
       <br/>
-      <p><strong>📲 Модернный Android клиент для ИИ!</strong></p>
+      <p><strong>📲 Android клиент для ИИ в стиле c.ai!</strong></p>
       <p>Персональный помощник с ИИ персонажами:</p>
       <ul>
         <li>🎨 Современный Material Design</li>
         <li>💬 Чат с ИИ персонажами</li>
         <li>⚡ Быстрая и отзывчивая работа</li>
-        <li>🔒 Приватность данных</li>
+        <li>🔒 Приватность данных(чат будет доступен только провайдеру ИИ)</li>
       </ul>
       <div align="center">
         <a href="https://github.com/BBQQYT/ChaosAlicePro">
@@ -101,7 +101,7 @@
     <td width="33%">
       <div align="center">
         <h4>🧠 CA-promt</h4>
-        <p><strong>Коллекция AI промптов</strong><br/>Оптимизированные шаблоны для ИИ задач</p>
+        <p><strong>Коллекция AI ароматов для персов из CAP</strong><br/> Промты персов из Chaos Alice Pro</p>
         <a href="https://github.com/BBQQYT/CA-promt">
           <img src="https://img.shields.io/badge/Изучить-FF9500?style=for-the-badge&logo=openai&logoColor=white" />
         </a>
@@ -109,7 +109,7 @@
     </td>
     <td width="33%">
       <div align="center">
-        <h4>👹 EvilYA</h4>
+        <h4>👹 EvilYA(заброшена)</h4>
         <p><strong>Yandex Alice без фильтров</strong><br/>Работает на Gemini API</p>
         <a href="https://github.com/BBQQYT/EvilYA">
           <img src="https://img.shields.io/badge/Попробовать-9C27B0?style=for-the-badge&logo=python&logoColor=white" />
